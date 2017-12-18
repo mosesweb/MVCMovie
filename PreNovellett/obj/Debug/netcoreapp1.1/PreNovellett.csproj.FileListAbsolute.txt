@@ -1,0 +1,11 @@
+C:\Users\Studerande\Source\Repos\PreNovellett\PreNovellett\bin\Debug\netcoreapp1.1\PreNovellett.deps.json
+C:\Users\Studerande\Source\Repos\PreNovellett\PreNovellett\bin\Debug\netcoreapp1.1\PreNovellett.runtimeconfig.json
+C:\Users\Studerande\Source\Repos\PreNovellett\PreNovellett\bin\Debug\netcoreapp1.1\PreNovellett.runtimeconfig.dev.json
+C:\Users\Studerande\Source\Repos\PreNovellett\PreNovellett\bin\Debug\netcoreapp1.1\PreNovellett.dll
+C:\Users\Studerande\Source\Repos\PreNovellett\PreNovellett\bin\Debug\netcoreapp1.1\PreNovellett.pdb
+C:\Users\Studerande\Source\Repos\PreNovellett\PreNovellett\obj\Debug\netcoreapp1.1\PreNovellett.csprojResolveAssemblyReference.cache
+C:\Users\Studerande\Source\Repos\PreNovellett\PreNovellett\obj\Debug\netcoreapp1.1\PreNovellett.csproj.CoreCompileInputs.cache
+C:\Users\Studerande\Source\Repos\PreNovellett\PreNovellett\obj\Debug\netcoreapp1.1\PreNovellett.AssemblyInfo.cs
+C:\Users\Studerande\Source\Repos\PreNovellett\PreNovellett\obj\Debug\netcoreapp1.1\PreNovellett.dll
+C:\Users\Studerande\Source\Repos\PreNovellett\PreNovellett\obj\Debug\netcoreapp1.1\PreNovellett.pdb
+C:\Users\Studerande\Source\Repos\PreNovellett\PreNovellett\obj\Debug\netcoreapp1.1\PreNovellett.AssemblyInfoInputs.cache
